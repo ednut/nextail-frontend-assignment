@@ -10,6 +10,10 @@ Start the development server
 
 `npx yarn start`
 
+## Preview
+
+https://thirsty-shaw-436e53.netlify.app/
+
 ## Business Requirements Met
 
 This report will show products with major stockouts ordered by sales ranking.
@@ -23,6 +27,7 @@ When a user hovers cursor on product card a "Mark Complete" label must be shown.
 After that, if user clicks on a product card, confirmation must be ask: "Are you sure you want to mark this product as complete?"
 
 Confirmed products will be deleted from report.
+
 
 ## Technical Requirements Met
 
